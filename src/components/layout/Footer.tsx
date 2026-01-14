@@ -60,11 +60,11 @@ export function Footer() {
               <li className="flex items-start gap-3">
                 <Phone size={18} className="text-primary mt-0.5 shrink-0" />
                 <div className="text-sm">
-                  <a href="tel:+34600000000" className="text-background/70 hover:text-primary transition-colors block">
-                    +34 600 000 000
+                  <a href="https://wa.me/34722503695" className="text-background/70 hover:text-primary transition-colors block">
+                    +34 722 503 695 (Benalúa)
                   </a>
-                  <a href="https://wa.me/34722503695" target="_blank" rel="noopener noreferrer">
-                      WhatsApp
+                  <a href="https://wa.me/34722503695" className="text-background/70 hover:text-primary transition-colors block">
+                    +34 722 50 36 95 (Carolinas)
                   </a>
                 </div>
               </li>
