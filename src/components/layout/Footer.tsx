@@ -63,8 +63,8 @@ export function Footer() {
                   <a href="tel:+34600000000" className="text-background/70 hover:text-primary transition-colors block">
                     +34 600 000 000
                   </a>
-                  <a href="tel:+34965000000" className="text-background/70 hover:text-primary transition-colors block">
-                    +34 965 000 000
+                  <a href="https://wa.me/34722503695" target="_blank" rel="noopener noreferrer">
+                      WhatsApp
                   </a>
                 </div>
               </li>
